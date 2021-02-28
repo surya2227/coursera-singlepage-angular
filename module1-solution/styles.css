@@ -1,0 +1,44 @@
+.empty{
+  width:auto;
+  padding:8px 12px;
+  word-wrap:break-word;
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+  width: 40%;
+}
+.valid{
+  width:auto;
+  padding:8px 12px;
+  word-wrap:break-word;
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+  width: 40%;
+  border: 2px solid green;
+}
+.invalid{
+  width:auto;
+  padding:8px 12px;
+  word-wrap:break-word;
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+  width: 40%;
+  border:2px solid red;
+}
+button{
+  width:auto;
+  padding:8px 12px;
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+  padding:8px 12px;
+}
+div{
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+  padding:8px 12px;
+}
+.info{
+  color: green;
+}
+.error{
+  color: red;
+}
